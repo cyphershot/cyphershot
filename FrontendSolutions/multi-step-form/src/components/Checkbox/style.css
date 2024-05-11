@@ -1,0 +1,11 @@
+.checkboxes-wrapper .checkbox {display: flex;align-items: center;border: 1px solid var(--Light-gray);padding: 20px;border-radius: 6px;cursor: pointer;transition: 0.4s;}
+.checkboxes-wrapper {margin-top: 45px;}
+
+.checkboxes-wrapper .selected-price {margin-inline-start: auto;font-size: 13px;color: var(--purplish-blue);}
+.checkboxes-wrapper .checkbox-info {margin-inline-start: 20px;}
+.checkboxes-wrapper > * + * {margin-top: 20px;}
+.checkboxes-wrapper .checkbox:hover {border-color: var(--purplish-blue);}
+.checkboxes-wrapper input[type="checkbox"] {width: 20px;height: 20px;cursor: pointer;accent-color: var(--purplish-blue);display: block;margin: 0;}
+.checkboxes-wrapper .checkbox-info .title {font-weight: 900;color: var(--marine-blue);margin-bottom: 4px;}
+.checkboxes-wrapper .checkbox-info .description {color: var(--Cool-gray);font-size: 14px;}
+.checkboxes-wrapper .checkbox.checkbox-checked {border-color: var(--purplish-blue);background-color: var(--Magnolia);}
