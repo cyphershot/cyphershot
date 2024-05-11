@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --very_dark_gray: hsl(0, 0%, 17%);
+  --dark_gray: hsl(0, 0%, 59%);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --very_dark_gray: hsl(0, 0%, 17%);
+    --dark_gray: hsl(0, 0%, 59%);
+  }
+}
+
+body {
+  background-color: var(--very_dark_gray);
+  color: var(--dark_gray);
+}
+
+header {
+  background-image: url(../public/images/pattern-bg-mobile.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  @media (min-width: 768px) {
+    background-image: url(../public/images/pattern-bg-desktop.png);
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

@@ -1,0 +1,6 @@
+
+.input-wrapper input {padding: 15px 20px;font-size: 14px;width: 100%;margin-top: 10px;border: 1px solid var(--Cool-gray);border-radius: 5px;font-weight: 900;color: var(--marine-blue);}
+.input-row label {font-size: clamp(12px, 4vw, 14px);color: var(--marine-blue);}
+.step {margin-top: 45px;}
+.form .has-error .error {font-size: 10px;color: var(--Strawberry-red);font-weight: 900;}
+.form .has-error input {border: 1px solid var(--Strawberry-red)}

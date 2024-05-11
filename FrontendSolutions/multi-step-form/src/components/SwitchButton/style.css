@@ -1,0 +1,6 @@
+.switch-button {display: flex;align-items: center;background-color: var(--Magnolia);color: var(--Cool-gray);justify-content: center;padding: 12px;gap: 25px;border-radius: 6px;}
+.switch-button .button {width: 40px;height: 20px;background: var(--marine-blue);border-radius: 20px;padding: 2px 3px;position: relative;}
+.switch-button .circle {width: 15px;height: 15px;display: block;background-color: white;border-radius: 50%;transition: 0.3s ease-in-out;position: absolute;left:3px;top:2.5px;}
+.switch-button .button.yearly .circle {left: calc(100% - 18px);}
+.switch-button .plan {font-weight: 600;transition: color 0.5s;}
+.switch-button .plan.active-plan {color: var(--marine-blue);}

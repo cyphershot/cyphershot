@@ -1,0 +1,9 @@
+.radio-group .sr-only {position: absolute;width: 1px;height: 1px;padding: 0;margin: -1px;overflow: hidden;clip: rect(0, 0, 0, 0);border: 0;}
+.radio-group {display: flex;margin: 45px 0 35px;max-width: 450px;gap: 20px;}
+.radio-group .radio-button.focus {border: 1px solid var(--purplish-blue);background-color: #F8F9FD;}
+.radio-group .radio-button {border-radius: 5px;padding: 20px 16px;display: flex;flex-direction: column;flex-grow: 1;border: 1px solid var(--Light-gray);flex-basis: 138px;transition: 0.2s;cursor: pointer;}
+.radio-group .radio-button:hover {border: 1px solid var(--purplish-blue);}
+.radio-group .radio-button img {max-width: 40px;}
+.radio-group .item-label {margin-top: 45px;font-weight: 900;color: var(--marine-blue);}
+.radio-group .item-price {font-size: 14px;color: var(--Cool-gray);margin-top: 6px;font-weight: 600;}
+.radio-group .yearly-offer {color: var(--marine-blue);font-size: 13px;margin-top: 8px;font-weight: 600;}
