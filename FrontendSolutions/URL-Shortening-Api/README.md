@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/SameerJS6/URL-Shortening-App)
-- Live Site URL: [Netlify](https://shrtco.de/JaAuI2)
+- Live Site URL: [Netlify](https://url-shortener-singh.netlify.app/)
 
 ## My process
 
