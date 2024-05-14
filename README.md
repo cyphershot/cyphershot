@@ -83,7 +83,7 @@
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kotlin&svgfill=E54857">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kotlin&svgfill=7F52FF">
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
