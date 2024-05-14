@@ -39,7 +39,7 @@
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=df5c43">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=b52e31">  
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
