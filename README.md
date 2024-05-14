@@ -23,7 +23,7 @@
  </a>
 
   <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=028dd1">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=fefefe">
 </a>
 
  <a href="https://github.com/cyphershot/cyphershot">
