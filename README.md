@@ -87,7 +87,7 @@
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgres&svgfill=f55247">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=f55247">
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
