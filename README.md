@@ -63,7 +63,7 @@
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=028dd1">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=f55247">
 </a>
 
 
