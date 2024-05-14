@@ -42,6 +42,8 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=b52e31">  
 </a>
 
+<br />
+
 <a href="https://github.com/cyphershot/cyphershot">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 </a>
