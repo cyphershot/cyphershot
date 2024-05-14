@@ -71,27 +71,27 @@
 <br />
 
 <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&svgfill=f6df1c">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&svgfill=027DFD">
 </a>
 
    <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=2d79c7">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=f89820">
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kotlin&svgfill=2965f1">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kotlin&svgfill=7f52ff">
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=swift&svgfill=2965f1">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=swift&svgfill=f05138">
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=f55247">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffca28">
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=44b78b">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=00ed64">
 </a>
 
 </p>
