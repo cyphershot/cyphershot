@@ -35,11 +35,11 @@
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&svgfill=42b883">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=b52e31">  
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=b52e31">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&svgfill=42b883">  
 </a>
 
 <br />
@@ -53,7 +53,7 @@
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwind&svgfill=028dd1">
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
