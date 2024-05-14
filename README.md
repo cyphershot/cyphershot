@@ -53,10 +53,6 @@
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=2965f1">
-</a>
-
-<a href="https://github.com/cyphershot/cyphershot">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
 
