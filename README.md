@@ -71,6 +71,10 @@
 <br />
 
 <a href="https://github.com/cyphershot/cyphershot">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffca28">
+</a>
+
+<a href="https://github.com/cyphershot/cyphershot">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&svgfill=027DFD">
 </a>
 
@@ -84,10 +88,6 @@
 
 <a href="https://github.com/cyphershot/cyphershot">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=swift&svgfill=f05138">
-</a>
-
-<a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffca28">
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
