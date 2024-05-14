@@ -68,5 +68,31 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=44b78b">
 </a>
 
+<br />
+
+<a href="https://github.com/cyphershot/cyphershot">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&svgfill=f6df1c">
+</a>
+
+   <a href="https://github.com/cyphershot/cyphershot">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=2d79c7">
+</a>
+
+<a href="https://github.com/cyphershot/cyphershot">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kotlin&svgfill=2965f1">
+</a>
+
+<a href="https://github.com/cyphershot/cyphershot">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=swift&svgfill=2965f1">
+</a>
+
+<a href="https://github.com/cyphershot/cyphershot">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgres&svgfill=f55247">
+</a>
+
+<a href="https://github.com/cyphershot/cyphershot">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=44b78b">
+</a>
+
 </p>
 
