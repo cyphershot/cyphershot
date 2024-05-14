@@ -64,6 +64,9 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=f55247">
 </a>
 
+<a href="https://github.com/cyphershot/cyphershot">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=44b78b">
+</a>
 
 </p>
 
