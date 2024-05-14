@@ -75,7 +75,7 @@
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&svgfill=027DFD">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&svgfill=5bc8f8">
 </a>
 
    <a href="https://github.com/cyphershot/cyphershot">
@@ -83,7 +83,7 @@
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kotlin&svgfill=7f52ff">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kotlin&svgfill=E54857">
 </a>
 
 <a href="https://github.com/cyphershot/cyphershot">
