@@ -58,5 +58,9 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=028dd1">
 </a>
 
+<a href="https://github.com/cyphershot/cyphershot">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=028dd1">
+</a>
+
 </p>
 
